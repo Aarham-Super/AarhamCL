@@ -1,4 +1,4 @@
-\# 🚀 AarhamCL (Aarham Coding Language)
+# 🚀 AarhamCL (Aarham Coding Language)
 
 
 
