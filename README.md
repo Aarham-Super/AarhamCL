@@ -44,7 +44,7 @@ This project is the foundation of a larger goal: building a full custom programm
 
 
 
-\## ⚙️ Features
+## ⚙️ Features
 
 
 
@@ -64,7 +64,7 @@ This project is the foundation of a larger goal: building a full custom programm
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 
 
@@ -82,7 +82,7 @@ This project is the foundation of a larger goal: building a full custom programm
 
 
 
-\## 💡 Goal
+## 💡 Goal
 
 
 
