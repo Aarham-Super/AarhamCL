@@ -1,0 +1,25 @@
+page Home
+
+text Hello AarhamCL
+
+set name Aarham
+show name
+
+set score 100
+show score
+
+button ClickMe
+
+on click ClickMe
+
+add 5 10
+
+mul 3 4
+
+fetch https://api.example.com
+
+log system running
+
+if score high
+else
+repeat 3
